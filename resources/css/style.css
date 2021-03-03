@@ -3,6 +3,10 @@ body {
     text-align: center;
 }
 
+footer {
+    text-align: right;
+}
+
 h1, h2, h3, p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
